@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # name: travel_ai_chatbot
+=======
+# name: travel_chatbot
+>>>>>>> e8195de726a74a94c60ea7cf7021fe188ec03a0b
 # description: "A new Flutter project."
 # # The following line prevents the package from being accidentally published to
 # # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -30,6 +34,7 @@
 # dependencies:
 #   flutter:
 #     sdk: flutter
+<<<<<<< HEAD
 #   http: ^1.1.0
 #   provider: ^6.1.1
 #   flutter_dotenv: ^5.1.0
@@ -43,6 +48,11 @@
 # #   lottie: ^3.1.0
 # #   uuid: ^4.4.0
 # #   shared_preferences: ^2.3.0
+=======
+
+#   firebase_core: ^3.3.0
+#   cloud_firestore: ^5.4.0
+>>>>>>> e8195de726a74a94c60ea7cf7021fe188ec03a0b
 #   # The following adds the Cupertino Icons font to your application.
 #   # Use with the CupertinoIcons class for iOS style icons.
 #   cupertino_icons: ^1.0.8
@@ -56,7 +66,11 @@
 #   # activated in the `analysis_options.yaml` file located at the root of your
 #   # package. See that file for information about deactivating specific lint
 #   # rules and activating additional ones.
+<<<<<<< HEAD
 #   flutter_lints: ^2.0.0
+=======
+#   flutter_lints: ^4.0.0
+>>>>>>> e8195de726a74a94c60ea7cf7021fe188ec03a0b
 
 # # For information on the generic Dart part of this file, see the
 # # following page: https://dart.dev/tools/pub/pubspec
@@ -99,26 +113,53 @@
 #   #
 #   # For details regarding fonts from package dependencies,
 #   # see https://flutter.dev/to/font-from-package
+<<<<<<< HEAD
 name: travel_ai_chatbot
 description: A Travel AI Chatbot built with Flutter
+=======
+name: travel_chatbot
+description: "A new Flutter project."
+>>>>>>> e8195de726a74a94c60ea7cf7021fe188ec03a0b
 publish_to: 'none'
 
 version: 1.0.0+1
 
 environment:
+<<<<<<< HEAD
   sdk: '>=3.0.0 <4.0.0'
+=======
+  sdk: ">=3.5.0 <4.0.0"
+>>>>>>> e8195de726a74a94c60ea7cf7021fe188ec03a0b
 
 dependencies:
   flutter:
     sdk: flutter
+<<<<<<< HEAD
   http: ^1.1.0
   provider: ^6.1.1
   # Remove flutter_dotenv for web compatibility
+=======
+
+  # ✅ Firebase packages
+  firebase_core: ^3.3.0
+  cloud_firestore: ^5.4.0
+
+  # UI
+  cupertino_icons: ^1.0.8
+>>>>>>> e8195de726a74a94c60ea7cf7021fe188ec03a0b
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+<<<<<<< HEAD
   flutter_lints: ^3.0.0
 
 flutter:
   uses-material-design: true
+=======
+
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+>>>>>>> e8195de726a74a94c60ea7cf7021fe188ec03a0b

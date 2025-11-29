@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
         android:label="travel_ai_chatbot"
+=======
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.mohana.travelchatbot">
+    <application
+        android:label="travel_chatbot"
+>>>>>>> e8195de726a74a94c60ea7cf7021fe188ec03a0b
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

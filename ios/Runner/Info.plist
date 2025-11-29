@@ -5,7 +5,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
+<<<<<<< HEAD
 	<string>Travel Ai Chatbot</string>
+=======
+	<string>Travel Chatbot</string>
+>>>>>>> e8195de726a74a94c60ea7cf7021fe188ec03a0b
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -13,7 +17,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 	<string>travel_ai_chatbot</string>
+=======
+	<string>travel_chatbot</string>
+>>>>>>> e8195de726a74a94c60ea7cf7021fe188ec03a0b
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

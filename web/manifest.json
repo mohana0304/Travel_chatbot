@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "travel_ai_chatbot",
     "short_name": "travel_ai_chatbot",
+=======
+    "name": "travel_chatbot",
+    "short_name": "travel_chatbot",
+>>>>>>> e8195de726a74a94c60ea7cf7021fe188ec03a0b
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

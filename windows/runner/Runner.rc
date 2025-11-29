@@ -90,12 +90,21 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
+<<<<<<< HEAD
             VALUE "FileDescription", "travel_ai_chatbot" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "travel_ai_chatbot" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "travel_ai_chatbot.exe" "\0"
             VALUE "ProductName", "travel_ai_chatbot" "\0"
+=======
+            VALUE "FileDescription", "travel_chatbot" "\0"
+            VALUE "FileVersion", VERSION_AS_STRING "\0"
+            VALUE "InternalName", "travel_chatbot" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "travel_chatbot.exe" "\0"
+            VALUE "ProductName", "travel_chatbot" "\0"
+>>>>>>> e8195de726a74a94c60ea7cf7021fe188ec03a0b
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
