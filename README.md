@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # travel_ai_chatbot
 
 A new Flutter project.
@@ -42,7 +42,7 @@ Enter a city name (e.g., "Delhi") and get:
 ---
 
 ## 🚀 Getting Started
->>>>>>> e8195de726a74a94c60ea7cf7021fe188ec03a0b
+
 
 This project is a starting point for a Flutter application.
 
@@ -54,11 +54,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-<<<<<<< HEAD
+
 =======
 ### Prerequisites
 - **Flutter SDK**: Version 3.x or later (`flutter doctor`)
 - **Dart**: Included with Flutter
 - **IDE**: Android Studio, VS Code, or any editor with Flutter support
 - **Device**: Android/iOS emulator or physical device
->>>>>>> e8195de726a74a94c60ea7cf7021fe188ec03a0b
+
