@@ -81,8 +81,8 @@ class ChatProvider with ChangeNotifier {
 // Travel Service with Guaranteed AI Responses
 class ChatService {
   // Your API Keys
-  static const String openRouterApiKey = '';
-  static const String openWeatherApiKey = '';
+  static const String openRouterApiKey = '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';
+  static const String openWeatherApiKey = '44e10f18fd47ad6681e9466fe31eb55e';
 
   static Future<String> getGuaranteedTravelResponse(String userMessage) async {
     // Try multiple AI models until we get a response
